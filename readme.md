@@ -3,7 +3,7 @@ Donde cree mi primera pagina web de un local de hamburguesas.
 En una primera instancia fui observando otras paginas web de este rubro.
 Para posteriormente crear mi propio contenido.
 Aun falta mucho por mejorar pero fue un buen inicio...
-link de la pagina web: 
+link de la pagina web: https://vmardo.github.io/segundo-repositorio/
 Tecnologias Utilizadas:
 -Html
 -CSS
