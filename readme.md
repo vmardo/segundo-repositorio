@@ -7,3 +7,5 @@ link de la pagina web:
 Tecnologias Utilizadas:
 -Html
 -CSS
+
+nota:Presente problemas ya que al subir la pagina a git hub algunas imagenes no se podian ver.
