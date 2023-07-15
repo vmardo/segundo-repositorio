@@ -10,3 +10,4 @@ Tecnologias Utilizadas:
 
 nota:Presente problemas ya que al subir la pagina a git hub algunas imagenes no se podian ver.
 Tambien presente problemas a la hora realizar el responsive quizas hice muchas secciones y eso me termino enredando.
+De los errores se aprende.Saludos
